@@ -1,0 +1,838 @@
+{
+	"seatInfo": [
+		{
+			"id": 7970,
+			"vd_id": 113,
+			"seat_number": "G002",
+			"seat_status": "2",
+			"seat_user": "2201902600",
+			//此为取消预约代码
+			"seat_appoint_id": 3965360
+		},
+		{
+			"id": 7971,
+			"vd_id": 113,
+			"seat_number": "G003",
+			"seat_status": "2",
+			"seat_user": "2201902626",
+			"seat_appoint_id": 3977604
+		},
+		{
+			"id": 7974,
+			"vd_id": 113,
+			"seat_number": "G006",
+			"seat_status": "2",
+			"seat_user": "2201902588",
+			"seat_appoint_id": 3966621
+		},
+		{
+			"id": 7975,
+			"vd_id": 113,
+			"seat_number": "G007",
+			"seat_status": "2",
+			"seat_user": "2201902732",
+			"seat_appoint_id": 3983229
+		},
+		{
+			"id": 7978,
+			"vd_id": 113,
+			"seat_number": "G010",
+			"seat_status": "1",
+			"seat_user": "2202140786",
+			"seat_appoint_id": 3983435
+		},
+		{
+			"id": 7979,
+			"vd_id": 113,
+			"seat_number": "G011",
+			"seat_status": "2",
+			"seat_user": "2202140778",
+			"seat_appoint_id": 3969143
+		},
+		{
+			"id": 7982,
+			"vd_id": 113,
+			"seat_number": "G014",
+			"seat_status": "0",
+			"seat_user": null,
+			"seat_appoint_id": null
+		},
+		{
+			"id": 7983,
+			"vd_id": 113,
+			"seat_number": "G015",
+			"seat_status": "2",
+			"seat_user": "2202140774",
+			"seat_appoint_id": 3969162
+		},
+		{
+			"id": 7986,
+			"vd_id": 113,
+			"seat_number": "G018",
+			"seat_status": "2",
+			"seat_user": "2201902068",
+			"seat_appoint_id": 3977620
+		},
+		{
+			"id": 7987,
+			"vd_id": 113,
+			"seat_number": "G019",
+			"seat_status": "2",
+			"seat_user": "2201900088",
+			"seat_appoint_id": 3982904
+		},
+		{
+			"id": 7990,
+			"vd_id": 113,
+			"seat_number": "G022",
+			"seat_status": "0",
+			"seat_user": null,
+			"seat_appoint_id": null
+		},
+		{
+			"id": 7991,
+			"vd_id": 113,
+			"seat_number": "G023",
+			"seat_status": "2",
+			"seat_user": "2201902604",
+			"seat_appoint_id": 3970075
+		},
+		{
+			"id": 7994,
+			"vd_id": 113,
+			"seat_number": "G026",
+			"seat_status": "2",
+			"seat_user": "2201904487",
+			"seat_appoint_id": 3982622
+		},
+		{
+			"id": 7995,
+			"vd_id": 113,
+			"seat_number": "G027",
+			"seat_status": "2",
+			"seat_user": "2202102592",
+			"seat_appoint_id": 3969876
+		},
+		{
+			"id": 7998,
+			"vd_id": 113,
+			"seat_number": "G030",
+			"seat_status": "2",
+			"seat_user": "2202090633",
+			"seat_appoint_id": 3983082
+		},
+		{
+			"id": 7999,
+			"vd_id": 113,
+			"seat_number": "G031",
+			"seat_status": "2",
+			"seat_user": "2202140441",
+			"seat_appoint_id": 3982990
+		},
+		{
+			"id": 8002,
+			"vd_id": 113,
+			"seat_number": "G034",
+			"seat_status": "2",
+			"seat_user": "2201902952",
+			"seat_appoint_id": 3966133
+		},
+		{
+			"id": 8003,
+			"vd_id": 113,
+			"seat_number": "G035",
+			"seat_status": "1",
+			"seat_user": "2202090315",
+			"seat_appoint_id": 3983514
+		},
+		{
+			"id": 8006,
+			"vd_id": 113,
+			"seat_number": "G038",
+			"seat_status": "2",
+			"seat_user": "2201800699",
+			"seat_appoint_id": 3969958
+		},
+		{
+			"id": 8007,
+			"vd_id": 113,
+			"seat_number": "G039",
+			"seat_status": "2",
+			"seat_user": "2201920702",
+			"seat_appoint_id": 3970118
+		},
+		{
+			"id": 8010,
+			"vd_id": 113,
+			"seat_number": "G042",
+			"seat_status": "2",
+			"seat_user": "2201802245",
+			"seat_appoint_id": 3969743
+		},
+		{
+			"id": 8011,
+			"vd_id": 113,
+			"seat_number": "G043",
+			"seat_status": "0",
+			"seat_user": null,
+			"seat_appoint_id": null
+		},
+		{
+			"id": 8014,
+			"vd_id": 113,
+			"seat_number": "G046",
+			"seat_status": "0",
+			"seat_user": null,
+			"seat_appoint_id": null
+		},
+		{
+			"id": 8015,
+			"vd_id": 113,
+			"seat_number": "G047",
+			"seat_status": "2",
+			"seat_user": "2202100352",
+			"seat_appoint_id": 3981337
+		},
+		{
+			"id": 8018,
+			"vd_id": 113,
+			"seat_number": "G050",
+			"seat_status": "2",
+			"seat_user": "2201920523",
+			"seat_appoint_id": 3983422
+		},
+		{
+			"id": 8019,
+			"vd_id": 113,
+			"seat_number": "G051",
+			"seat_status": "2",
+			"seat_user": "2202190713",
+			"seat_appoint_id": 3981705
+		},
+		{
+			"id": 8022,
+			"vd_id": 113,
+			"seat_number": "G054",
+			"seat_status": "0",
+			"seat_user": null,
+			"seat_appoint_id": null
+		},
+		{
+			"id": 8023,
+			"vd_id": 113,
+			"seat_number": "G055",
+			"seat_status": "2",
+			"seat_user": "2201901240",
+			"seat_appoint_id": 3982285
+		},
+		{
+			"id": 8026,
+			"vd_id": 113,
+			"seat_number": "G058",
+			"seat_status": "0",
+			"seat_user": null,
+			"seat_appoint_id": null
+		},
+		{
+			"id": 8027,
+			"vd_id": 113,
+			"seat_number": "G059",
+			"seat_status": "2",
+			"seat_user": "2201902870",
+			"seat_appoint_id": 3977693
+		},
+		{
+			"id": 8030,
+			"vd_id": 113,
+			"seat_number": "G062",
+			"seat_status": "2",
+			"seat_user": "2201920567",
+			"seat_appoint_id": 3969584
+		},
+		{
+			"id": 8031,
+			"vd_id": 113,
+			"seat_number": "G063",
+			"seat_status": "0",
+			"seat_user": null,
+			"seat_appoint_id": null
+		},
+		{
+			"id": 8034,
+			"vd_id": 113,
+			"seat_number": "G066",
+			"seat_status": "2",
+			"seat_user": "2201904424",
+			"seat_appoint_id": 3983288
+		},
+		{
+			"id": 8035,
+			"vd_id": 113,
+			"seat_number": "G067",
+			"seat_status": "2",
+			"seat_user": "2202140647",
+			"seat_appoint_id": 3969572
+		},
+		{
+			"id": 8038,
+			"vd_id": 113,
+			"seat_number": "G070",
+			"seat_status": "0",
+			"seat_user": null,
+			"seat_appoint_id": null
+		},
+		{
+			"id": 8039,
+			"vd_id": 113,
+			"seat_number": "G071",
+			"seat_status": "0",
+			"seat_user": null,
+			"seat_appoint_id": null
+		},
+		{
+			"id": 8042,
+			"vd_id": 113,
+			"seat_number": "G074",
+			"seat_status": "2",
+			"seat_user": "2202101365",
+			"seat_appoint_id": 3982107
+		},
+		{
+			"id": 8043,
+			"vd_id": 113,
+			"seat_number": "G075",
+			"seat_status": "0",
+			"seat_user": null,
+			"seat_appoint_id": null
+		},
+		{
+			"id": 8046,
+			"vd_id": 113,
+			"seat_number": "G078",
+			"seat_status": "2",
+			"seat_user": "2202001169",
+			"seat_appoint_id": 3982127
+		},
+		{
+			"id": 8047,
+			"vd_id": 113,
+			"seat_number": "G079",
+			"seat_status": "0",
+			"seat_user": null,
+			"seat_appoint_id": null
+		},
+		{
+			"id": 8050,
+			"vd_id": 113,
+			"seat_number": "G082",
+			"seat_status": "1",
+			"seat_user": "2201903564",
+			"seat_appoint_id": 3983602
+		},
+		{
+			"id": 8051,
+			"vd_id": 113,
+			"seat_number": "G083",
+			"seat_status": "2",
+			"seat_user": "2201921783",
+			"seat_appoint_id": 3981701
+		},
+		{
+			"id": 8055,
+			"vd_id": 113,
+			"seat_number": "G087",
+			"seat_status": "2",
+			"seat_user": "2201904180",
+			"seat_appoint_id": 3982557
+		},
+		{
+			"id": 8058,
+			"vd_id": 113,
+			"seat_number": "G090",
+			"seat_status": "0",
+			"seat_user": null,
+			"seat_appoint_id": null
+		},
+		{
+			"id": 8059,
+			"vd_id": 113,
+			"seat_number": "G091",
+			"seat_status": "2",
+			"seat_user": "2202190765",
+			"seat_appoint_id": 3982632
+		},
+		{
+			"id": 8062,
+			"vd_id": 113,
+			"seat_number": "G094",
+			"seat_status": "2",
+			"seat_user": "2202190710",
+			"seat_appoint_id": 3981719
+		},
+		{
+			"id": 8063,
+			"vd_id": 113,
+			"seat_number": "G095",
+			"seat_status": "2",
+			"seat_user": "2202002388",
+			"seat_appoint_id": 3976294
+		},
+		{
+			"id": 8066,
+			"vd_id": 113,
+			"seat_number": "G098",
+			"seat_status": "1",
+			"seat_user": "2202101407",
+			"seat_appoint_id": 3983654
+		},
+		{
+			"id": 8067,
+			"vd_id": 113,
+			"seat_number": "G099",
+			"seat_status": "2",
+			"seat_user": "2201802286",
+			"seat_appoint_id": 3983348
+		},
+		{
+			"id": 8070,
+			"vd_id": 113,
+			"seat_number": "G102",
+			"seat_status": "0",
+			"seat_user": null,
+			"seat_appoint_id": null
+		},
+		{
+			"id": 8071,
+			"vd_id": 113,
+			"seat_number": "G103",
+			"seat_status": "2",
+			"seat_user": "2201902054",
+			"seat_appoint_id": 3983344
+		},
+		{
+			"id": 8074,
+			"vd_id": 113,
+			"seat_number": "G106",
+			"seat_status": "0",
+			"seat_user": null,
+			"seat_appoint_id": null
+		},
+		{
+			"id": 8075,
+			"vd_id": 113,
+			"seat_number": "G107",
+			"seat_status": "2",
+			"seat_user": "2202140624",
+			"seat_appoint_id": 3969788
+		},
+		{
+			"id": 8078,
+			"vd_id": 113,
+			"seat_number": "G110",
+			"seat_status": "2",
+			"seat_user": "2202140382",
+			"seat_appoint_id": 3983559
+		},
+		{
+			"id": 8079,
+			"vd_id": 113,
+			"seat_number": "G111",
+			"seat_status": "2",
+			"seat_user": "2202104723",
+			"seat_appoint_id": 3969741
+		},
+		{
+			"id": 8082,
+			"vd_id": 113,
+			"seat_number": "G114",
+			"seat_status": "2",
+			"seat_user": "2202100367",
+			"seat_appoint_id": 3969752
+		},
+		{
+			"id": 8083,
+			"vd_id": 113,
+			"seat_number": "G115",
+			"seat_status": "2",
+			"seat_user": "2201902347",
+			"seat_appoint_id": 3977702
+		},
+		{
+			"id": 8086,
+			"vd_id": 113,
+			"seat_number": "G118",
+			"seat_status": "2",
+			"seat_user": "2201900052",
+			"seat_appoint_id": 3981443
+		},
+		{
+			"id": 8087,
+			"vd_id": 113,
+			"seat_number": "G119",
+			"seat_status": "1",
+			"seat_user": "2202020667",
+			"seat_appoint_id": 3983524
+		},
+		{
+			"id": 8090,
+			"vd_id": 113,
+			"seat_number": "G122",
+			"seat_status": "2",
+			"seat_user": "2201904175",
+			"seat_appoint_id": 3970084
+		},
+		{
+			"id": 8091,
+			"vd_id": 113,
+			"seat_number": "G123",
+			"seat_status": "2",
+			"seat_user": "2202091944",
+			"seat_appoint_id": 3983249
+		},
+		{
+			"id": 8094,
+			"vd_id": 113,
+			"seat_number": "G126",
+			"seat_status": "2",
+			"seat_user": "2202140454",
+			"seat_appoint_id": 3970159
+		},
+		{
+			"id": 8095,
+			"vd_id": 113,
+			"seat_number": "G127",
+			"seat_status": "2",
+			"seat_user": "2202020925",
+			"seat_appoint_id": 3968957
+		},
+		{
+			"id": 8098,
+			"vd_id": 113,
+			"seat_number": "G130",
+			"seat_status": "2",
+			"seat_user": "2201904507",
+			"seat_appoint_id": 3973570
+		},
+		{
+			"id": 8100,
+			"vd_id": 113,
+			"seat_number": "G132",
+			"seat_status": "2",
+			"seat_user": "2202140716",
+			"seat_appoint_id": 3977684
+		},
+		{
+			"id": 8102,
+			"vd_id": 113,
+			"seat_number": "G134",
+			"seat_status": "2",
+			"seat_user": "2202121720",
+			"seat_appoint_id": 3982652
+		},
+		{
+			"id": 8103,
+			"vd_id": 113,
+			"seat_number": "G135",
+			"seat_status": "2",
+			"seat_user": "2202140483",
+			"seat_appoint_id": 3970452
+		},
+		{
+			"id": 8106,
+			"vd_id": 113,
+			"seat_number": "G138",
+			"seat_status": "2",
+			"seat_user": "2202102604",
+			"seat_appoint_id": 3970918
+		},
+		{
+			"id": 8107,
+			"vd_id": 113,
+			"seat_number": "G139",
+			"seat_status": "2",
+			"seat_user": "2202070103",
+			"seat_appoint_id": 3969524
+		},
+		{
+			"id": 8110,
+			"vd_id": 113,
+			"seat_number": "G142",
+			"seat_status": "2",
+			"seat_user": "2202020723",
+			"seat_appoint_id": 3983211
+		},
+		{
+			"id": 8111,
+			"vd_id": 113,
+			"seat_number": "G143",
+			"seat_status": "2",
+			"seat_user": "2202020756",
+			"seat_appoint_id": 3983235
+		},
+		{
+			"id": 8114,
+			"vd_id": 113,
+			"seat_number": "G146",
+			"seat_status": "2",
+			"seat_user": "2201900115",
+			"seat_appoint_id": 3973340
+		},
+		{
+			"id": 8115,
+			"vd_id": 113,
+			"seat_number": "G147",
+			"seat_status": "2",
+			"seat_user": "2201904314",
+			"seat_appoint_id": 3982000
+		},
+		{
+			"id": 8118,
+			"vd_id": 113,
+			"seat_number": "G150",
+			"seat_status": "2",
+			"seat_user": "2202101383",
+			"seat_appoint_id": 3983221
+		},
+		{
+			"id": 8119,
+			"vd_id": 113,
+			"seat_number": "G151",
+			"seat_status": "1",
+			"seat_user": "2202002525",
+			"seat_appoint_id": 3983149
+		},
+		{
+			"id": 8122,
+			"vd_id": 113,
+			"seat_number": "G154",
+			"seat_status": "2",
+			"seat_user": "2202120637",
+			"seat_appoint_id": 3970083
+		},
+		{
+			"id": 8123,
+			"vd_id": 113,
+			"seat_number": "G155",
+			"seat_status": "2",
+			"seat_user": "2201901234",
+			"seat_appoint_id": 3965811
+		},
+		{
+			"id": 8126,
+			"vd_id": 113,
+			"seat_number": "G158",
+			"seat_status": "2",
+			"seat_user": "2202101374",
+			"seat_appoint_id": 3977678
+		},
+		{
+			"id": 8127,
+			"vd_id": 113,
+			"seat_number": "G159",
+			"seat_status": "2",
+			"seat_user": "2202120719",
+			"seat_appoint_id": 3983172
+		},
+		{
+			"id": 8130,
+			"vd_id": 113,
+			"seat_number": "G162",
+			"seat_status": "0",
+			"seat_user": null,
+			"seat_appoint_id": null
+		},
+		{
+			"id": 8131,
+			"vd_id": 113,
+			"seat_number": "G163",
+			"seat_status": "2",
+			"seat_user": "2202140353",
+			"seat_appoint_id": 3977672
+		},
+		{
+			"id": 8134,
+			"vd_id": 113,
+			"seat_number": "G166",
+			"seat_status": "2",
+			"seat_user": "2202120861",
+			"seat_appoint_id": 3982660
+		},
+		{
+			"id": 8135,
+			"vd_id": 113,
+			"seat_number": "G167",
+			"seat_status": "2",
+			"seat_user": "2201901247",
+			"seat_appoint_id": 3981828
+		},
+		{
+			"id": 8138,
+			"vd_id": 113,
+			"seat_number": "G170",
+			"seat_status": "2",
+			"seat_user": "2201902928",
+			"seat_appoint_id": 3983656
+		},
+		{
+			"id": 8139,
+			"vd_id": 113,
+			"seat_number": "G171",
+			"seat_status": "2",
+			"seat_user": "2201903656",
+			"seat_appoint_id": 3981626
+		},
+		{
+			"id": 8142,
+			"vd_id": 113,
+			"seat_number": "G174",
+			"seat_status": "2",
+			"seat_user": "2201902949",
+			"seat_appoint_id": 3982572
+		},
+		{
+			"id": 8143,
+			"vd_id": 113,
+			"seat_number": "G175",
+			"seat_status": "2",
+			"seat_user": "2202190708",
+			"seat_appoint_id": 3969479
+		},
+		{
+			"id": 8146,
+			"vd_id": 113,
+			"seat_number": "G178",
+			"seat_status": "2",
+			"seat_user": "2202190551",
+			"seat_appoint_id": 3981385
+		},
+		{
+			"id": 8147,
+			"vd_id": 113,
+			"seat_number": "G179",
+			"seat_status": "2",
+			"seat_user": "2201902319",
+			"seat_appoint_id": 3981071
+		},
+		{
+			"id": 9052,
+			"vd_id": 113,
+			"seat_number": "2-001",
+			"seat_status": "0",
+			"seat_user": null,
+			"seat_appoint_id": null
+		},
+		{
+			"id": 9053,
+			"vd_id": 113,
+			"seat_number": "2-002",
+			"seat_status": "0",
+			"seat_user": null,
+			"seat_appoint_id": null
+		},
+		{
+			"id": 9054,
+			"vd_id": 113,
+			"seat_number": "2-003",
+			"seat_status": "2",
+			"seat_user": "2202190625",
+			"seat_appoint_id": 3981965
+		},
+		{
+			"id": 9055,
+			"vd_id": 113,
+			"seat_number": "2-004",
+			"seat_status": "2",
+			"seat_user": "2202190523",
+			"seat_appoint_id": 3981961
+		},
+		{
+			"id": 9056,
+			"vd_id": 113,
+			"seat_number": "2-005",
+			"seat_status": "2",
+			"seat_user": "2202100661",
+			"seat_appoint_id": 3983175
+		},
+		{
+			"id": 9057,
+			"vd_id": 113,
+			"seat_number": "2-006",
+			"seat_status": "0",
+			"seat_user": null,
+			"seat_appoint_id": null
+		},
+		{
+			"id": 9058,
+			"vd_id": 113,
+			"seat_number": "2-007",
+			"seat_status": "2",
+			"seat_user": "2201902156",
+			"seat_appoint_id": 3973594
+		},
+		{
+			"id": 9059,
+			"vd_id": 113,
+			"seat_number": "2-008",
+			"seat_status": "2",
+			"seat_user": "2202140429",
+			"seat_appoint_id": 3973307
+		},
+		{
+			"id": 9060,
+			"vd_id": 113,
+			"seat_number": "2-009",
+			"seat_status": "0",
+			"seat_user": null,
+			"seat_appoint_id": null
+		},
+		{
+			"id": 9061,
+			"vd_id": 113,
+			"seat_number": "2-010",
+			"seat_status": "2",
+			"seat_user": "2202020884",
+			"seat_appoint_id": 3982444
+		},
+		{
+			"id": 9062,
+			"vd_id": 113,
+			"seat_number": "2-011",
+			"seat_status": "2",
+			"seat_user": "2201902455",
+			"seat_appoint_id": 3973363
+		},
+		{
+			"id": 9063,
+			"vd_id": 113,
+			"seat_number": "2-012",
+			"seat_status": "1",
+			"seat_user": "2202002903",
+			"seat_appoint_id": 3982805
+		},
+		{
+			"id": 9064,
+			"vd_id": 113,
+			"seat_number": "2-013",
+			"seat_status": "2",
+			"seat_user": "2201900116",
+			"seat_appoint_id": 3968708
+		},
+		{
+			"id": 9065,
+			"vd_id": 113,
+			"seat_number": "2-014",
+			"seat_status": "2",
+			"seat_user": "2201900074",
+			"seat_appoint_id": 3982462
+		},
+		{
+			"id": 9066,
+			"vd_id": 113,
+			"seat_number": "2-015",
+			"seat_status": "2",
+			"seat_user": "2202190650",
+			"seat_appoint_id": 3983222
+		}
+	],
+	"freeSeatId": 8130
+}
