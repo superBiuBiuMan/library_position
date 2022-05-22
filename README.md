@@ -1,11 +1,4 @@
----
-title: 我来图书馆实现用云函数cfc进行自动化抢位置
-tags: [NodeJs]
-categories: [javscript,工具]
-date: 2022-5-21 15:06:07
-updated: 2022-5-21 15:06:10
-index_img: https://dreamos.oss-cn-beijing.aliyuncs.com/gitblog/202205212219583.jpg
----
+
 #### 前言
 
 * 抓包的话就不多说啦
